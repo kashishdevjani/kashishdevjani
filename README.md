@@ -5,7 +5,11 @@ Hey, I am Kashish Devjani, a passionate **Frontend Developer ** 🚀. With 3 yea
 ---
 
 ## 📌 What I Do
-I build responsive and visually appealing websites using **Next.js, React, HTML, CSS, Bootstrap, and JavaScript**. My expertise extends to **Google Ads, campaign data analysis, Amazon account management, and media buying**. I believe in writing clean and efficient code that enhances user experience.
+I design and develop responsive, visually appealing websites using Next.js, React, HTML, CSS, Bootstrap, and JavaScript. My focus is on building clean, user-friendly interfaces that deliver a seamless experience across devices.
+
+I also work with REST APIs and handle data using JSON to create dynamic and interactive web applications. Whether it's fetching data from a server or integrating third-party APIs, I ensure everything works smoothly behind the scenes.
+
+From front-facing visuals to smart data handling — I create modern web solutions that are both functional and elegant.
 
 ---
 

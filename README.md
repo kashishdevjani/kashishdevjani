@@ -1,6 +1,6 @@
 
 
-Hey, I am Kashish Devjani, a passionate **Frontend Developer & Digital Marketer** 🚀. With 3 years of experience, I specialize in creating stunning, user-friendly web interfaces and optimizing online presence through data-driven marketing strategies. 
+Hey, I am Kashish Devjani, a passionate **Frontend Developer ** 🚀. With 3 years of experience, I specialize in creating stunning, user-friendly web interfaces and optimizing online presence through data-driven marketing strategies. 
 
 ---
 
@@ -10,11 +10,17 @@ I build responsive and visually appealing websites using **Next.js, React, HTML,
 ---
 
 ## 💼 Experience
-With **3+ years** in the tech and digital marketing space, I've worked on:
-- Frontend development of scalable applications.
-- Managing Google Ads campaigns with data-driven strategies.
-- Handling Amazon accounts and e-commerce analytics.
-- Building engaging websites with a focus on performance and SEO.
+I have 3+ years of experience in frontend development and web design. 🚀 I specialize in creating responsive, user-friendly websites and web applications using Next.js, HTML, CSS, and Bootstrap. 📊 Over the years, I have worked on multiple projects like
+
+Developed user-friendly UI/UX for the WLRA website, focusing on e-commerce and travel platform needs.
+
+Created custom frontend solutions for the Agkizone website, specializing in health, decor, and lifestyle content.
+
+Ensured smooth integration between design and user interface on both websites.
+
+Implemented frontend optimization best practices to enhance website performance and loading speed.
+
+Contributed to innovative design solutions ensuring high-quality execution from project start to finish.
 
 ---
 

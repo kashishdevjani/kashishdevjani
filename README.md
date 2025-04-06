@@ -39,7 +39,7 @@ Contributed to innovative design solutions ensuring high-quality execution from 
 
 ## 🛠 Tech Stack
 - **Frontend**: Next.js, React, HTML, CSS, Bootstrap, JavaScript
-- **Marketing & Ads**: Google Ads, Amazon Ads, MGID, Taboola
+
 - **Tools & Platforms**: WordPress, Google Tag Manager, Google Analytics, Facebook Ads, Ad Manager
 
 ---

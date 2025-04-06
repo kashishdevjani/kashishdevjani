@@ -29,7 +29,11 @@ Contributed to innovative design solutions ensuring high-quality execution from 
 ---
 
 ## 🎨 Portfolio
-Check out my projects at **[wlra.us](https://www.wlra.us/)**, where I showcase my expertise in web development and media buying.
+🔗 WLRA – A travel niche platform offering curated content, smooth navigation, and a modern, responsive interface.
+
+🔗 Invitation Street – A modern wedding invitation platform focused on elegant UI/UX and smooth performance.
+
+🔗 AG Kidzone – A fun and educational site for kids with interactive features, vibrant design, and clean structure.
 
 ---
 

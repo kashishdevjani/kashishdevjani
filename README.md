@@ -40,7 +40,8 @@ Contributed to innovative design solutions ensuring high-quality execution from 
 ## 🛠 Tech Stack
 - **Frontend**: Next.js, React, HTML, CSS, Bootstrap, JavaScript
 
-- **Tools & Platforms**: WordPress, Google Tag Manager, Google Analytics, Facebook Ads, Ad Manager
+- **Tools & Platforms**: WordPress, Google Tag Manager, GitHub , GitLab, VWO, Strapi, Chatgpt, 
+Postman API, 
 
 ---
 

@@ -52,3 +52,14 @@ Beyond coding, I love exploring **astrology-based tech solutions**, optimizing a
 Let's connect and build something amazing! ✨
 
 📩 Reach me at **[LinkedIn](https://www.linkedin.com/in/kashishdevjani/)**
+
+---
+
+## 🛠 Let’s Connect
+Let’s work together!  
+You can reach out to me via:
+📧 Email: ddevjanikashish@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/kashish-devjani-354b63245 
+🌐 GitHub: https://kashishdevjani.github.io/kashishdevjani
+
+

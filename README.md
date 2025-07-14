@@ -4,12 +4,13 @@ Hey, I am Kashish Devjani, a passionate **Frontend Developer ** 🚀. With 3 yea
 
 ---
 
-## 📌 What I Do
-I design and develop responsive, visually appealing websites using Next.js, React, HTML, CSS, Bootstrap, and JavaScript. My focus is on building clean, user-friendly interfaces that deliver a seamless experience across devices.
+## 📌 Get to Know Me
+I'm a frontend developer based in Agra with 3+ years of experience in building clean, user-friendly, and responsive websites. I currently work as a Team Head at Aalpha Media, where I lead a frontend team and manage multiple live projects, including a platform called "Invitation."
 
-I also work with REST APIs and handle data using JSON to create dynamic and interactive web applications. Whether it's fetching data from a server or integrating third-party APIs, I ensure everything works smoothly behind the scenes.
+My strengths lie in creating pixel-perfect UIs, maintaining clean code practices, and collaborating with teams using Git and GitHub. I’m passionate about learning new technologies and delivering solutions that solve real user problems.
 
-From front-facing visuals to smart data handling — I create modern web solutions that are both functional and elegant.
+Tech Stack I work with:
+HTML • CSS • JavaScript • Bootstrap • React • Next.js • Git • GitHub
 
 ---
 

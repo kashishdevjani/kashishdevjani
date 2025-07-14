@@ -55,11 +55,14 @@ Let's connect and build something amazing! ✨
 
 ---
 
-## 🛠 Let’s Connect
+## 📫 Let’s Connect
 Let’s work together!  
 You can reach out to me via:
+
 📧 Email: ddevjanikashish@gmail.com  
+
 🔗 LinkedIn: www.linkedin.com/in/kashish-devjani-354b63245 
+
 🌐 GitHub: https://kashishdevjani.github.io/kashishdevjani
 
 
